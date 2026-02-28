@@ -1,0 +1,9 @@
+{
+  "subscriptions": [
+    {"name": "Render", "amount": 21.50, "period": "monthly", "category": "infrastructure"},
+    {"name": "Hostinger", "amount": 23.99, "period": "monthly", "category": "infrastructure"},
+    {"name": "SlyNumber", "amount": 4.08, "period": "monthly", "category": "tools", "note": "$49/year"},
+    {"name": "GitHub", "amount": 0.00, "period": "monthly", "category": "tools"},
+    {"name": "Anthropic", "amount": 0.00, "period": "monthly", "category": "ai", "manual": true}
+  ]
+}
